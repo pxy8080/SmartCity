@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartCity1222</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">全部服务</string>
+    <string name="title_notifications">智慧党建</string>
+    <string name="title_analyse">数据分析</string>
+    <string name="title_person">个人中心</string>
+</resources>
